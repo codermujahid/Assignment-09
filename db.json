@@ -1,0 +1,41 @@
+{
+    "student" : [
+        {
+            "name" : "mujahid",
+            "skill" : "IOS",
+            "age" : 27,
+            "Food"  : ["alu", "potol","kimra" ]
+        },
+        {
+            "name" : "Raj",
+            "skill" : "web",
+            "age" : 23,
+            "Food"  : ["alu", "potol","kimra" ]
+        },
+        {
+            "name" : "Fariha",
+            "skill" : "IOS",
+            "age" : 27,
+            "Food"  : ["alu", "potol","kimra" ]
+        },
+        {
+            "name" : "mujahid",
+            "skill" : "IOS",
+            "age" : 27,
+            "Food"  : ["alu", "potol","kimra" ]
+        },
+        {
+            "name" : "mujahid",
+            "skill" : "IOS",
+            "age" : 27,
+            "Food"  : ["alu", "potol","kimra" ]
+        },
+        {
+            "name" : "mujahid",
+            "skill" : "IOS",
+            "age" : 27,
+            "Food"  : ["alu", "potol","kimra" ]
+        }
+        
+    ]
+}
